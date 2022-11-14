@@ -1,3 +1,41 @@
+.body-container {
+    font-family: Outfit, sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.qr-code-box {
+    text-align: center;
+    background-color: #fff;
+    margin: 1.5rem;
+    padding: 1rem;
+    max-width: 350px;
+    border-radius: 1rem;
+}
+
+.qr-code {
+    width: 100%;
+    margin: 0 0 0.5rem;
+    border-radius: 1rem;
+}
+
+h1 {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: hsl(218, 44%, 22%);
+    margin: 1em;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    margin: 1em;
+    font-size: 15px;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
