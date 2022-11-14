@@ -13,14 +13,14 @@
     background-color: #fff;
     margin: 1.5rem;
     padding: 1rem;
-    max-width: 300px;
-    border-radius: 1rem;
+    max-width: 280px;
+    border-radius: 1.2rem;
 }
 
 .qr-code {
     width: 100%;
     margin: 0 0 0.5rem;
-    border-radius: 1rem;
+    border-radius: 1.2rem;
 }
 
 h1 {
